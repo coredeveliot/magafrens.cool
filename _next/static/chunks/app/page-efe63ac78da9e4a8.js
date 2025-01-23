@@ -1240,11 +1240,6 @@
                     className:
                       "absolute w-[125px] h-fit top-[15px] left-[15px] sm:hidden",
                   }),
-                  (0, i.jsx)("span", {
-                    className:
-                      "absolute bottom-[15px] left-[15px] sm:bottom-[16px] w-[206px] sm:w-full sm:left-[16px] font-nerkoOne text-[18px] leading-[18px] sm:text-[26px] sm:leading-[26px] text-black break-all",
-                    children: s.ca,
-                  }),
                   (0, i.jsx)("button", {
                     className:
                       "absolute top-[15px] right-[15px] sm:top-[16px] sm:right-[16px] p-[5px] rounded-[4px] border border-black text-black hover:text-[#FFCF5F] hover:bg-black",
@@ -1509,11 +1504,6 @@
                             children: "Contract Address",
                           }),
                         ],
-                      }),
-                      (0, i.jsx)("h1", {
-                        className:
-                          "break-all font-medium font-rubik text-white",
-                        children: s.ca,
                       }),
                     ],
                   }),
