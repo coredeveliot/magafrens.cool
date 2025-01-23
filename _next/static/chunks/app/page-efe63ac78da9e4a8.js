@@ -13,10 +13,10 @@
       let s = {
         twitter: "https://x.com/magafrens_eth",
         telegram: "https://t.me/magafrens_erc20",
-        dextools: "https://www.dextools.io/",
+        dextools: "https://www.dextools.io/app/en/ether/pair-explorer/0x7ed8b2642dde7146d681c89b5b46d9cd41137dd7?t=1737617102213",
         dexscreener:
-          "https://dexscreener.com/ethereum/0x0000000000000000000000000",
-        ca: "0x000000000000000000000000000",
+          "https://dexscreener.com/ethereum/0xFbB48af9aDf030A8A9Cdc13bdF7B957A927D0dc0",
+        ca: "0xFbB48af9aDf030A8A9Cdc13bdF7B957A927D0dc0",
         showCa: !0,
       };
       var C = t(7396),
@@ -263,7 +263,7 @@
                   "lg:left-[18.59%]"
                 ),
 
-                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000(buy)",
+                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xFbB48af9aDf030A8A9Cdc13bdF7B957A927D0dc0(buy)",
                 children: [
                   (0, i.jsx)(B, {
                     
@@ -1607,7 +1607,7 @@
                             "Go to",
                             " ",
                             (0, i.jsx)("a", {
-                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x000000000000000000000000000&chain=mainnet",
+                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xFbB48af9aDf030A8A9Cdc13bdF7B957A927D0dc0&chain=mainnet",
                               target: "_blank",
                               className: "text-blue-500",
                               children: "app.uniswap.org",
@@ -1674,7 +1674,7 @@
                             "Go to",
                             " ",
                             (0, i.jsx)("a", {
-                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x000000000000000000000000000&chain=mainnet",
+                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xFbB48af9aDf030A8A9Cdc13bdF7B957A927D0dc0&chain=mainnet",
                               target: "_blank",
                               className: "text-blue-500",
                               children: "app.uniswap.org",
