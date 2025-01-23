@@ -1595,7 +1595,7 @@
                       (0, i.jsx)(eL, {
                         title: "Get some ETH",
                         description:
-                          "Have SOL in your wallet to switch to $FRENS. If you don’t have any SOL, you can buy directly on Phantom, transfer from another wallet, or buy on another exchange and send it to your wallet.",
+                          "Have ETH in your wallet to switch to $FRENS. If you don’t have any ETH, you can buy directly on Metamask, transfer from another wallet, or buy on another exchange and send it to your wallet.",
                         index: 2,
                         image: ef,
                         cover: ej,
@@ -1607,7 +1607,7 @@
                             "Go to",
                             " ",
                             (0, i.jsx)("a", {
-                              href: "https://app.uniswap.org/",
+                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x000000000000000000000000000&chain=mainnet",
                               target: "_blank",
                               className: "text-blue-500",
                               children: "app.uniswap.org",
@@ -1658,7 +1658,7 @@
                       (0, i.jsx)(eS, {
                         title: "Get some ETH",
                         description:
-                          "Have SOL in your wallet to switch to $FRENS. If you don’t have any SOL, you can buy directly on Phantom, transfer from another wallet, or buy on another exchange and send it to your wallet.",
+                          "Have ETH in your wallet to switch to $FRENS. If you don’t have any ETH, you can buy directly on Metamask, transfer from another wallet, or buy on another exchange and send it to your wallet.",
                         index: 2,
                         image: ef,
                         cover: ej,
@@ -1674,7 +1674,7 @@
                             "Go to",
                             " ",
                             (0, i.jsx)("a", {
-                              href: "https://app.uniswap.org/",
+                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x000000000000000000000000000&chain=mainnet",
                               target: "_blank",
                               className: "text-blue-500",
                               children: "app.uniswap.org",
