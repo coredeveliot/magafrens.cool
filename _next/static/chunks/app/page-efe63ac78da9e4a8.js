@@ -263,7 +263,7 @@
                   "lg:left-[18.59%]"
                 ),
 
-                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xFbB48af9aDf030A8A9Cdc13bdF7B957A927D0dc0(buy)",
+                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xFbB48af9aDf030A8A9Cdc13bdF7B957A927D0dc0",
                 children: [
                   (0, i.jsx)(B, {
                     
